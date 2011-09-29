@@ -1,0 +1,35 @@
+.submit input {  
+        width: auto;  
+        padding: 9px 15px;  
+        background: #617798;  
+        border: 0;  
+        font-size: 14px;  
+        color: #FFFFFF;  
+        }  
+ label {  
+        margin-left: 10px;  
+        color: #999999; 
+        		
+        }  
+		
+ textarea {  
+        padding: 9px;  
+        border: solid 1px #E5E5E5;  
+        outline:1;  
+       
+        width: 400px;  
+        background: #FFFFFF;  
+        } 
+
+ table{
+        font: normal 13px/100% Verdana, Tahoma, sans-serif; 
+        width: auto;  
+        padding: 9px 15px;  
+        background: #617798;  
+        border: 1;  
+        font-size: 14px;  
+        
+          }
+
+
+		
